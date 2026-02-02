@@ -347,15 +347,6 @@ customer_support_voice_agent/
 
 ---
 
-## 🔐 Security Best Practices
-
-- ✅ Never commit `.env` file to version control
-- ✅ Use environment variables for all API keys
-- ✅ Rotate API keys periodically
-- ✅ Monitor API usage and set billing alerts
-- ✅ Restrict API keys to specific IP addresses if possible
-
----
 
 ## 📊 Performance Optimization
 
